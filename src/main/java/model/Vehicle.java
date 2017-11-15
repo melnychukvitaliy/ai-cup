@@ -232,4 +232,6 @@ public class Vehicle extends CircularUnit {
     public int[] getGroups() {
         return Arrays.copyOf(groups, groups.length);
     }
+
+
 }
