@@ -16,4 +16,5 @@ public class Control {
 
         return new Location(totalX / vehicles.size(), totalY / vehicles.size());
     }
+
 }
